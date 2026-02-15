@@ -1,15 +1,3 @@
-#!/usr/bin/env python3
-"""
-视频音频提取工具
-
-一个用于从视频网站（如Bilibili、YouTube等）提取音频的Python脚本
-使用yt-dlp库进行视频下载和音频提取
-
-作者: User
-版本: 1.0.0
-日期: 2026-02-15
-"""
-
 import os
 import subprocess
 import argparse
